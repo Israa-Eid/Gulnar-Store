@@ -1,0 +1,7 @@
+Electronics electronics /com/example/projectfinal/Catogares/Electronics.png
+Clothe clothes /com/example/projectfinal/Catogares/Clothes.png
+Shoes shose /com/example/projectfinal/Catogares/SHOSE.png
+Furniture furniture /com/example/projectfinal/Catogares/Furniture.png
+Miscellaneous miscellaneous /com/example/projectfinal/Catogares/Miscellaneous.png
+Bags Bags /com/example/projectfinal/Catogares/Bag.png
+
